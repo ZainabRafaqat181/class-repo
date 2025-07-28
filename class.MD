@@ -1,3 +1,13 @@
-My name is Zainab.
-I am living in Pakistan.
-I am working on coursera.
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
